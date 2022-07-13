@@ -1,4 +1,4 @@
-package br.com.cache;
+package br.com.cache.controller;
 
 import org.springframework.cache.annotation.CacheEvict;
 import org.springframework.cache.annotation.Cacheable;
